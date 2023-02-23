@@ -1,0 +1,39 @@
+[
+    {
+        "name": "iphone",
+        "price": 154,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone10",
+        "price": 1154,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "s10",
+        "price": 154,
+        "company": "samsung"
+    },
+    {
+        "name": "laptop",
+        "price": 154,
+        "company": "dell"
+    },
+    {
+        "name": "poco",
+        "price": 154,
+        "company": "mi"
+    },
+       {
+        "name": "redmi",
+        "price": 154,
+        "company": "mi"
+    },
+       {
+        "name": "s23",
+        "price": 154,
+        "company": "samsung"
+    }
+]
